@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    padding:0;
+   
+
+}
+.form{
+   
+    background-color:#035397 ;
+    padding: 50px 100px ;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    margin: 5% 25%;
+    
+
+}
+
+.button{
+    padding: 1rem 3rem;
+    border-radius: 10px;
+    font-weight: bold;
+}
