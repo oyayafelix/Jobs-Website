@@ -6,9 +6,10 @@ function validate()
     var password=document.getElementById("password").value
 
     if (email=="admin" && password=="admin") {
-        alert("login sucessfull");
+        window.location= "https://www.google.com/";
+        //alert("login sucessfull");
         //return false;
-        return window.location= window.location = "https://www.google.com/";
+        //return window.location= window.location = "https://www.google.com/";
         
 
 
@@ -23,7 +24,7 @@ const buttonClick = document.querySelector(".button");
 
 buttonClick.addEventListener("click",function(){
    
-        window.location = "https://www.google.com/"
+        
         
    
     
