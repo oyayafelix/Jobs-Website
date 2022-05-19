@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    padding:0;
+   
+
+}
+.form{
+   
+    background-color:#035397 ;
+    padding: 50px 0px ;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    margin: 5% 25%;
+    
+
+}
+
+.form h2{
+    color: #E8630A;
+
+}
+
+.form h3{
+    color: white;
+
+}
+
+.form input[type="text"], .form input[type="password"]{
+    background-color:none;
+    border-radius: 20px;
+    padding: 2% 20%;
+    align-items: center;
+    text-align: center;
+    border-width: 2px;
+    border-color: #E8630A;
+}
+
+.button{
+    padding: 1rem 4rem;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: #E8630A;
+    color: white;
+    font-size: large;
+    border: none;
+    
+}
+
+
