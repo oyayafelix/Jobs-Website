@@ -6,7 +6,7 @@ function validate()
     var password=document.getElementById("password").value
 
     if (email=="admin"  && password=="admin") {
-        window.location= "home.html";
+        window.location= "https://google.com";
         alert("login sucessfull");
         return true;
        
