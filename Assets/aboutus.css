@@ -1,0 +1,94 @@
+*{
+    font-family: 'poppins',sans-serif;
+}
+
+body{
+    background: url(./Aboutus/african-american-applicant-holding-resume-job-interview-close-up-view.jpg);
+    background-size: cover;
+}
+ h1{
+    color:rgb(240, 236, 10);
+    margin-left: 20px;
+    font-size: xx-large;
+    margin-left: 1000px;
+   
+    width: 200px;
+    height: 80px;
+    
+}
+.container{
+   
+    
+    color:azure;
+    padding: 20px 20px 50px 30px;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: large;
+
+
+}
+.container div h3{
+    color: black;
+}
+#partners, h1{
+    color: rgb(240, 236, 10);
+    
+    margin-top: 30px;
+    padding: 30px;
+
+    
+    
+    
+    /* float: left; */
+    }
+
+    h2{
+        color:rgb(240, 236, 10) ;
+        font-weight: 600;
+        text-align: center;
+        text-shadow: 10px rgb(240, 236, 10);
+        
+    }
+   h3  .socialmedia{
+        font-size: xx-large;
+    }
+
+.partnersection{
+    display: flex;
+    justify-content: space-around;
+    background: black;
+}
+.motVis{
+    text-align: center;
+}
+.motVis>h2{
+    color:rgb(240, 236, 10) ;
+}
+.icons{
+    
+    padding-top: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background: black;
+    
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    padding: 30px;
+}
+@media(max-width = 800px){
+    h1{
+        color:rgb(240, 236, 10);
+
+        
+        font-size: small;
+        
+    
+        
+    }
+   
+
+}

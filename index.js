@@ -1,4 +1,4 @@
-this.setHomePage('login.js');
+
 
 function validate()
 {
