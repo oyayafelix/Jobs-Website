@@ -6,7 +6,7 @@ function validate()
     var password=document.getElementById("password").value
 
     if (email=="admin"  && password=="admin") {
-        //window.location.href= "./home.html";
+        //window.location.href= "./myjobs.html";
        window.location= "https://www.google.com/";
 
         alert("login sucessfull");
