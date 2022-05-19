@@ -6,7 +6,9 @@ function validate()
     var password=document.getElementById("password").value
 
     if (email=="admin"  && password=="admin") {
-        window.location= "home.html";
+        window.location= "./home.html";
+       // window.location= "https://www.google.com/";
+
         alert("login sucessfull");
         return true;
        
@@ -15,7 +17,7 @@ function validate()
 
 
     } else {
-        window.location.reload();
+        //window.location.reload();
         alert("login failed");
         return true;
         
