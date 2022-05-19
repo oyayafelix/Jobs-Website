@@ -10,7 +10,7 @@ function validate()
        //window.location= "https://www.google.com/";
 
         alert("login sucessfull");
-        return true;
+        return false;
        
         
 
@@ -19,7 +19,7 @@ function validate()
     } else {
         //window.location.reload();
         alert("login failed");
-        return true;
+        
         
         
         
