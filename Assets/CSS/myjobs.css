@@ -2,6 +2,8 @@
 body{
     width: auto;
     background-color: rgb(5, 5, 92);
+    background-image: url(/Assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg);
+    background-size: cover;
 }
 header{
     background-color: rgb(255, 98, 0);
