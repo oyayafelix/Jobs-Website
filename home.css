@@ -352,16 +352,16 @@ h1 {
 
 #f {
     height: 1px;
-    background-color: #706c5f;
+    background-color: #E8630A;
 }
 
 .ws {
-    border: 2px solid #413921;
+    border: 2px solid #E8630A;
     border-radius: 3px;
 }
 
 #sem {
-    border: 2px solid #413921;
+    border: 2px solid #E8630A;
     border-radius: 3px;
     width: 10%;
 }
